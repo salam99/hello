@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="RunHelloworld">
+    <Basepaths>/runhelloworld</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1541731019096</CreatedAt>
+    <CreatedBy>super_ben79@hotmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>RunHelloworld</DisplayName>
+    <LastModifiedAt>1541731244168</LastModifiedAt>
+    <LastModifiedBy>super_ben79@hotmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:d9189007891e427b33e7a6a9ddd65392af72437b43ab3391e2da3f72e1c3b78f398bd41b8fd42cca8360736fc9d5f44b71ccc784b7cda6c742fdcf96a08208ed</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
